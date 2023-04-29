@@ -21,9 +21,22 @@ section {
     width: 500px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.499);
-
-
 }
+
+section p {
+    text-align: left;
+    font-size: 0.8em;
+}
+
+div {
+    text-align: center;
+    padding: 5px;
+}
+
+div#res {
+    font-size: 0.8em;
+}
+
 
 footer {
     color: white;
