@@ -1,4 +1,4 @@
-window.alert('Boa Tarde!')
+ window.alert('Boa Tarde!')
 function verificar() {
     var data = new Date()
     var ano = data.getFullYear()
