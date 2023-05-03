@@ -19,7 +19,7 @@ function contar() {
     }else {
         for(let c = i; c >= f; c -= p) {
             res.innerHTML += `${c} \u{1f449}`}
-            res.innerHTML += `\u{1f3c1}`
+            res.innerHTML= `\u{1f3c1}`
     }
    }
 }
