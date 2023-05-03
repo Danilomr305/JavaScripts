@@ -1,5 +1,3 @@
-var c = 1
-while (c <= 500) {
-    console.log('tudo bem?')
-    c++
+for (var c = 1; c <= 120; c++){
+    console.log(`parte ${c}`)
 }
