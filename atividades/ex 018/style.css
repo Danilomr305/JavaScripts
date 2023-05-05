@@ -27,18 +27,8 @@ section {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.499);
 }
 
-section p {
-    text-align: left;
-    font-size: 0.8em;
-}
-
-div {
-    text-align: left;
-    padding: 10px;
-}
-
-div#res {
-    font-size: 0.8em;
+select#flista {
+    width: 150px;
 }
 
 
