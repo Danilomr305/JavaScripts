@@ -1,0 +1,1 @@
+var str = "Esta string tem alguns espaços desnecessários!";
