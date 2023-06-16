@@ -22,5 +22,5 @@ if(idade > 20) {
 if(nome == "Danilo") {
     console.log("teste");
 } else {
-    
+    console.log("testando");
 }
