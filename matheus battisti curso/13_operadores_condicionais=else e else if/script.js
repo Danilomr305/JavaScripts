@@ -19,4 +19,6 @@ if(idade > 20) {
     console.log("Ele só pode entrar com autorização")
 }
 
-if(nome == "Danilo")
+if(nome == "Danilo") {
+    
+}
