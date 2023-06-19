@@ -17,3 +17,8 @@ var y = 2;
   // LOOPS
   console.log(x++);
   console.log(x--);
+
+  while(x <= 100) {
+
+    console.log(x);
+  }
