@@ -24,4 +24,7 @@ var i = 0;
 
 while(i < 8) {
     console.log(palavra[i]);
+
+    i += 1;
+
 }
