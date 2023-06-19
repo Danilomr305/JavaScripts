@@ -11,5 +11,9 @@ var y = 2;
   // MULTIPLICAÇÃO
   console.log(x *= y);
 
-  //DIVISÃO
+  // DIVISÃO
   console.log(x /= y);
+
+  // LOOPS
+  console.log(x++);
+  console.log(x--);
