@@ -12,6 +12,6 @@ for(var j = 0; j < arr.length; j++) {
 
 console.log(arr.length);
 
-for(var x = 5; x < 1000; x *= 3) {
+for(var x = 5; x < 100; x *= 3) {
     console.log(x);
 }
