@@ -32,4 +32,4 @@ var somaDois = soma(5, 300);
 
 console.log(somaDois);
 
-console.log(soma(4, 6));
+console.log(som(4, 6));
