@@ -11,7 +11,7 @@ for(var i = 10; i > 0; i--) {
 
 console.log("Deu o break");
 
-var x = 10;
+var x = 1;
 
 while(x < 100) {
 
